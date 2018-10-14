@@ -1,4 +1,4 @@
 # hello-world
 my first repository
 
-First of all: Ich trage Mantel!
+First of all: I'm wearing coat!
