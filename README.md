@@ -1,4 +1,4 @@
 # hello-world
 my first repository
 
-Frist of all: Ich trage Mantel!
+First of all: Ich trage Mantel!
